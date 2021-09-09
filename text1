@@ -1,0 +1,6 @@
+#incldue<iostream>
+using namespace std;
+int mian(){
+cout<<"yes"<<endl；
+return 0;
+}
